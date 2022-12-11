@@ -1,1 +1,1 @@
-# dometerium
+nitda-blockchain-scholarship
